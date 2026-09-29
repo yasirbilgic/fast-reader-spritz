@@ -1,0 +1,9 @@
+{
+	"id": "fast-reader-spritz",
+	"name": "Fast Reader (Spritz)",
+	"version": "1.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Spritz-style RSVP speed reading in a dedicated pane.",
+	"author": "",
+	"isDesktopOnly": false
+}
